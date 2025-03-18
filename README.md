@@ -17,7 +17,7 @@ Step 1: Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/abdul-ahad-26/library-management-system-by-26.git
 cd library-management-system
 Step 2: Install Dependencies using uv
 bash
